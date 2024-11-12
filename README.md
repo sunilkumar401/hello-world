@@ -1,3 +1,3 @@
 # hello-world
 For Github flow practice
-This us about my GitHub training purpose.
+This is about my GitHub training purpose.
